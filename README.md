@@ -1,2 +1,3 @@
-# Face-Recognition-Surveillance-Project
-This project is a real-time face recognition surveillance system built using Python, OpenCV, and the face_recognition library. It continuously captures video from a camera (USB, IP, or real surveillance camera via RTSP) and identifies known individuals by matching faces with pre-trained images. When a face is recognized, it logs the person's name along with the timestamp into a CSV file.
+# One_Shot_Learning
+
+## Please refer the document attached to this repo
